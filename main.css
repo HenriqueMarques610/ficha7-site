@@ -27,4 +27,28 @@ body {
 .sidebar {
   background-color: #009e74;
 }
+
+.header {
+  background-color: #007460;
+}
+
+.footer {
+  background-color: #101d2c;
+}
+
+.empreendedores {
+  background-color: #101d2c;
+}
+
+.story_pictures {
+  background-color: #009e74;
+}
+
+.story_content {
+  background-color: #f9f7f6;
+}
+
+.gallery {
+  background-color: #f9f7f6;
+}
 /*# sourceMappingURL=main.css.map */
